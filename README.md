@@ -20,15 +20,25 @@ The analysis includes:
 
 
 project_folder/
+
 │
+
 ├── data/
+
 │ └── Data.xlsx
+
 │
+
 ├── report/
+
 │ ├── report.Rmd
+
 │ └── report.pdf
+
 │
+
 ├── helper_functions.R
+
 ├── README.md
 
 
@@ -54,6 +64,7 @@ project_folder/
 
 ```r
 install.packages(c("ggplot2", "ggpubr", "diffusion", "readxl"))
+```
 
 Open:
 
